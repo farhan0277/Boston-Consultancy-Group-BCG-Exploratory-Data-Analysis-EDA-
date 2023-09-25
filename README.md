@@ -17,12 +17,12 @@ The primary goal of this project is to drive churn reduction within PowerCo's SM
 
 1) Problem Formulation:
 
-Hypothesis: Churn in the SME segment is influenced by price changes.
-Data Science Problem: To identify which customers are more likely to churn at their current price and assess the potential impact of offering a 20% discount on retaining at-risk customers.
-Data Collection:
+  Hypothesis: Churn in the SME segment is influenced by price changes.
+  Data Science Problem: To identify which customers are more likely to churn at their current price and assess the potential impact of offering a 20% discount on retaining at-risk                                 customers.
+2) Data Collection:
 
-2) Collect historical data on customer behavior, pricing changes, and churn events.
-Request data on customer demographics, contract details, and usage patterns.
+  Collect historical data on customer behavior, pricing changes, and churn events.
+  Request data on customer demographics, contract details, and usage patterns.
 ## Task 2: Exploratory Data Analysis
 
 1) I performed exploratory data analysis (EDA) on the dataset provided by the client, which includes historical customer data, historical pricing data, and a churn indicator. The goal was to gain a holistic understanding of the dataset.
