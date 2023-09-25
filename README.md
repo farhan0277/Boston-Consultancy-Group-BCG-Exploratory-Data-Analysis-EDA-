@@ -1,2 +1,5 @@
-# Boston-Consultancy-Group-BCG-Exploratory-Data-Analysis-EDA-
+
+# Boston Consulting Group Exploratory Data Analysis
+
 My key findings and suggestions for further data augmentation.
+
